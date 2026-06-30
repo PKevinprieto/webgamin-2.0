@@ -539,3 +539,18 @@ main {
     font-size: 1.6em;
   }
 }
+@media (min-width: 480px) and (max-width: 587px) {
+  .title2 {
+    width: 98% !important;
+  }
+}
+@media (min-width: 480px) and (max-width: 540px) {
+  .title2 h2 {
+    font-size: 2em;
+  }
+}
+@media (min-width: 768px) and (max-width: 795px) {
+  .title2 h2 {
+    font-size: 2em;
+  }
+}
